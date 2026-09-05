@@ -227,37 +227,6 @@ SYSTEM MESSAGE:
 
 </div>
 
----
-
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# `> GITHUB_TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
 
 # `> CONNECT`
 
