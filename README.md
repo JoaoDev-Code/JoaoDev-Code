@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=JOÃO%20PANETO&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20IN%20PROGRESS&descSize=16&descAlignY=58&color=0D1117" width="100%"/>
+<!-- ==================== SYSTEM BANNER ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:07152B,50:0D1117,75:063B4C,100:00F5FF&height=220&section=header&text=JO%C3%83O%20PANETO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DEVELOPER%20%7C%20PROGRAMMING%20%7C%20FUTURE%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=60&descAlign=50" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer+system...;%3E+Welcome+to+my+GitHub.;%3E+Learning+%7C+Building+%7C+Evolving;%3E+Future+Software+Engineer;%3E+System+online+%E2%9C%93"/>
+<!-- ==================== TYPING ==================== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&height=50&lines=%3E+Initializing+developer+system...;%3E+System+online+%E2%9C%93;%3E+Learning+%7C+Building+%7C+Evolving;%3E+Future+Software+Engineer;%3E+Welcome+to+my+GitHub+interface." alt="Typing Animation"/>
 
 <br><br>
 
@@ -23,11 +27,11 @@
 ║              DEVELOPER PROFILE               ║
 ╠══════════════════════════════════════════════╣
 ║ Name       : João Paneto                     ║
-║ Role       : Developer in Progress            ║
-║ Experience : 2+ years learning programming    ║
-║ Focus      : Web Development & Programming    ║
-║ Goal       : Software Engineering             ║
-║ Status     : ONLINE                           ║
+║ Role       : Developer in Progress           ║
+║ Experience : 2+ years learning programming   ║
+║ Focus      : Web Development & Programming   ║
+║ Goal       : Software Engineering            ║
+║ Status     : ONLINE                          ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -47,14 +51,14 @@ Meu objetivo é construir uma carreira como **Software Engineer**, evoluindo con
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,mysql,mongodb&theme=dark" alt="Tech Stack"/>
 
 </div>
 
 ### `LANGUAGES & TECHNOLOGIES`
 
 | Tecnologia | Foco                     |
-| ---------- | ------------------------ |
+| :--------- | :----------------------- |
 | HTML5      | Estrutura e semântica    |
 | CSS3       | Estilização e interfaces |
 | JavaScript | Interatividade e lógica  |
@@ -69,7 +73,7 @@ Meu objetivo é construir uma carreira como **Software Engineer**, evoluindo con
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma&theme=dark" alt="Development Tools"/>
 
 </div>
 
@@ -170,9 +174,9 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
 
@@ -182,7 +186,7 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -192,7 +196,7 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -202,7 +206,7 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -223,15 +227,15 @@ STATUS: IN PROGRESS...
 <div align="center">
 
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F5FF" alt="Instagram"/>
 </a>
 
 </div>
@@ -241,15 +245,19 @@ STATUS: IN PROGRESS...
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│              SYSTEM STATUS: ONLINE           │
-│                                              │
-│        CODE • CREATE • LEARN • EVOLVE        │
-│                                              │
-└──────────────────────────────────────────────┘
+╔══════════════════════════════════════════════╗
+║                                              ║
+║             SYSTEM STATUS: ONLINE            ║
+║                                              ║
+║        CODE • CREATE • LEARN • EVOLVE        ║
+║                                              ║
+║              [ CONNECTION OK ]               ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:07152B,100:020617" width="100%"/>
 
 </div>
