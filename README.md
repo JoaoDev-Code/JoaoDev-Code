@@ -39,7 +39,7 @@
 
 ## `> SOBRE_MIM`
 
-Olá! Eu sou **João Paneto**, desenvolvedor em formação apaixonado por tecnologia, programação e criação de projetos.
+Olá! Eu sou **João Arthur**, desenvolvedor em formação apaixonado por tecnologia, programação e criação de projetos.
 
 Minha jornada começou com **HTML**, quando descobri que era possível transformar ideias em interfaces reais através do código.
 
