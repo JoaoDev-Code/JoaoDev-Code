@@ -253,15 +253,15 @@ SYSTEM MESSAGE:
 ### `> SYSTEM.SHUTDOWN`
 
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│       THANK YOU FOR VISITING MY PROFILE    │
-│                                            │
-│       CODE • CREATE • LEARN • EVOLVE       │
-│                                            │
-│             [ SYSTEM ONLINE ]              │
-│                                            │
-╰────────────────────────────────────────────╯
+                              ╭────────────────────────────────────────────╮
+                              │                                            │
+                              │       THANK YOU FOR VISITING MY PROFILE    │
+                              │                                            │
+                              │       CODE • CREATE • LEARN • EVOLVE       │
+                              │                                            │
+                              │             [ SYSTEM ONLINE ]              │
+                              │                                            │
+                              ╰────────────────────────────────────────────╯
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:111827,100:050505&height=100&section=footer"/>
