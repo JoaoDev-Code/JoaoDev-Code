@@ -1,138 +1,112 @@
-<!-- ========================================================= -->
-
-<!--              JOÃO PANETO • GITHUB PROFILE                -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00f5ff&height=180&section=header&text=JOÃO%20PANETO&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20CODE%20%7C%20EVOLUTION&descAlignY=58&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=JOÃO%20PANETO&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20IN%20PROGRESS&descSize=16&descAlignY=58&color=0D1117" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+developer+system...;%3E+Welcome+to+my+GitHub+interface.;%3E+Learning+%7C+Building+%7C+Evolving;%3E+Future+Software+Engineer+%F0%9F%92%BB;%3E+Turning+ideas+into+code."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer+system...;%3E+Welcome+to+my+GitHub.;%3E+Learning+%7C+Building+%7C+Evolving;%3E+Future+Software+Engineer;%3E+System+online+%E2%9C%93"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-PROGRAMMING-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff"/>
-<img src="https://img.shields.io/badge/LEARNING-EVERYDAY-111827?style=for-the-badge&logo=bookstack&logoColor=00f5ff"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/FOCUS-PROGRAMMING-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/LEARNING-ACTIVE-161B22?style=for-the-badge&logo=bookstack&logoColor=00F5FF"/>
 
 </div>
 
 ---
 
-# `> SYSTEM.IDENTITY`
+## `> ABOUT_ME`
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                  DEVELOPER PROFILE                       ║
-╠══════════════════════════════════════════════════════════╣
-║ NAME       : João Paneto                                 ║
-║ ROLE       : Aspiring Software Engineer                  ║
-║ STATUS     : Learning & Building                         ║
-║ EXPERIENCE : 2+ years exploring programming              ║
-║ MISSION    : Transform ideas into technology             ║
-║ MODE       : ALWAYS LEARNING                             ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║              DEVELOPER PROFILE               ║
+╠══════════════════════════════════════════════╣
+║ Name       : João Paneto                     ║
+║ Role       : Developer in Progress            ║
+║ Experience : 2+ years learning programming    ║
+║ Focus      : Web Development & Programming    ║
+║ Goal       : Software Engineering             ║
+║ Status     : ONLINE                           ║
+╚══════════════════════════════════════════════╝
 ```
 
-## `> SOBRE_MIM`
+Olá! Eu sou **João Paneto**, estudante e desenvolvedor em formação.
 
-Olá! Eu sou **João Arthur**, desenvolvedor em formação apaixonado por tecnologia, programação e criação de projetos.
+Minha jornada na programação começou com **HTML**, e foi a partir daí que descobri minha paixão por tecnologia e desenvolvimento de software.
 
-Minha jornada começou com **HTML**, quando descobri que era possível transformar ideias em interfaces reais através do código.
+Atualmente estou expandindo meus conhecimentos em **CSS, JavaScript, Python, lógica de programação, Backend e bancos de dados**, sempre buscando transformar conhecimento em projetos reais.
 
-Desde então, venho explorando diferentes áreas da programação e construindo projetos para evoluir minhas habilidades na prática.
+Meu objetivo é construir uma carreira como **Software Engineer**, evoluindo constantemente através de estudos e projetos.
 
-Atualmente, meu objetivo é me tornar um **Software Engineer**, aprofundando meus conhecimentos em desenvolvimento Web, lógica de programação, Backend, bancos de dados e novas tecnologias.
-
-> `"The future is built one line of code at a time."`
+> `Code. Learn. Build. Repeat.`
 
 ---
 
-# `> TECH_STACK`
+## `> TECH_STACK`
 
 <div align="center">
 
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark"/>
-
-### `DATABASE & BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb&theme=dark"/>
-
-### `TOOLS`
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,mysql,mongodb&theme=dark" />
 
 </div>
 
+### `LANGUAGES & TECHNOLOGIES`
+
+| Tecnologia | Foco                     |
+| ---------- | ------------------------ |
+| HTML5      | Estrutura e semântica    |
+| CSS3       | Estilização e interfaces |
+| JavaScript | Interatividade e lógica  |
+| Python     | Programação e automação  |
+| Node.js    | Backend                  |
+| MySQL      | Banco de dados           |
+| MongoDB    | Banco de dados NoSQL     |
+
 ---
 
-# `> CURRENT_TOOLKIT`
+## `> DEVELOPMENT_TOOLS`
 
-```yaml
-Frontend:
-  - HTML5
-  - CSS3
-  - JavaScript
+<div align="center">
 
-Programming:
-  - Logic Programming
-  - Python
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma&theme=dark" />
 
-Backend:
-  - Node.js
-  - APIs
-  - Authentication
+</div>
 
-Database:
-  - MySQL
-
-Workflow:
-  - Git
-  - GitHub
-  - VS Code
+```text
+VS Code       → Development Environment
+Git           → Version Control
+GitHub        → Code & Collaboration
+Vercel        → Deployment
+Figma         → Interface Design
 ```
 
 ---
 
-# `> FEATURED_PROJECTS`
+## `> PROJECTS`
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🚗 AutoPrime Vehicles
+### 🚗 AutoPrime Veículos
 
-Website concept for a local automotive store.
+Website para uma loja automotiva local.
 
-**Stack**
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00f5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+`HTML` `CSS`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 💻 Tech Portfolio
+### 💻 Developer Portfolio
 
-Personal portfolio focused on programming, technology and software engineering.
+Portfólio pessoal focado em programação e tecnologia.
 
-**Stack**
 `HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00f5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
 
 </td>
 
@@ -140,33 +114,23 @@ Personal portfolio focused on programming, technology and software engineering.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🐍 Python Projects
 
-Collection of projects created to practice programming logic and automation.
+Projetos desenvolvidos durante meus estudos de Python e lógica.
 
-**Stack**
 `Python`
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/EXPLORE-00f5ff?style=for-the-badge&logo=python&logoColor=black"/>
-</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### ⚡ JavaScript Lab
 
-Experiments and projects created while learning JavaScript.
+Projetos e experimentos para evolução em JavaScript.
 
-**Stack**
 `JavaScript` `HTML` `CSS`
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/EXPLORE-00f5ff?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
 
 </td>
 
@@ -177,88 +141,84 @@ Experiments and projects created while learning JavaScript.
 
 ---
 
-# `> MISSION_CONTROL`
+## `> CURRENT_MISSION`
 
 ```bash
-$ systemctl status developer
+$ ./mission.sh
 
-● developer.service - João Paneto
-   Loaded: active
-   Status: ONLINE
+[✓] Estudar lógica de programação
+[✓] Aprender HTML
+[→] Aprofundar CSS
+[→] Evoluir em JavaScript
+[→] Aprender Python
+[→] Estudar Backend
+[→] Aprender bancos de dados
+[→] Desenvolver projetos completos
+[→] Construir um portfólio forte
+[→] Tornar-me Software Engineer
 
-[✓] Improve programming logic
-[✓] Build real-world projects
-[→] Master HTML & CSS
-[→] Advance JavaScript
-[→] Learn Python
-[→] Explore Backend development
-[→] Learn databases
-[→] Build complete applications
-[→] Become a Software Engineer
+STATUS: IN PROGRESS...
 
-$ ./future.sh
-
-> KEEP_LEARNING()
-> KEEP_BUILDING()
-> KEEP_EVOLVING()
-
-SYSTEM MESSAGE:
-"Consistency > Motivation"
+> KEEP LEARNING
+> KEEP BUILDING
+> KEEP EVOLVING
 ```
 
 ---
 
-# `> GITHUB_ANALYTICS`
+## `> GITHUB_STATS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 
 </div>
 
 ---
 
-# `> ACTIVITY_GRAPH`
+## `> STREAK`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 
 </div>
 
 ---
 
-# `> GITHUB_TROPHIES`
+## `> ACTIVITY_GRAPH`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
+## `> GITHUB_TROPHIES`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
 ---
 
-# `> CONNECT`
+## `> CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## `> CONNECT`
 
 <div align="center">
 
@@ -276,30 +236,20 @@ SYSTEM MESSAGE:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `> SYSTEM.SHUTDOWN`
-
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│       THANK YOU FOR VISITING MY PROFILE    │
-│                                            │
-│       CODE • CREATE • LEARN • EVOLVE       │
-│                                            │
-│             [ SYSTEM ONLINE ]              │
-│                                            │
-╰────────────────────────────────────────────╯
+┌──────────────────────────────────────────────┐
+│                                              │
+│              SYSTEM STATUS: ONLINE           │
+│                                              │
+│        CODE • CREATE • LEARN • EVOLVE        │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:111827,100:050505&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117"/>
 
 </div>
-sercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a> <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a> <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a>
-</p>
-
-### Redes Sociais
-
-<p align="left"> <a href="https://www.github.com/JoaoDev-Code" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" altura="32" alt="GitHub" title="GitHub" /> </picture> </a> </p>
