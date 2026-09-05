@@ -1,20 +1,16 @@
 <div align="center">
 
-<!-- ==================== SYSTEM BANNER ==================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:07152B,50:0D1117,75:063B4C,100:00F5FF&height=220&section=header&text=JO%C3%83O%20PANETO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DEVELOPER%20%7C%20PROGRAMMING%20%7C%20FUTURE%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:00F5FF&height=180&section=header&text=JO%C3%83O%20PANETO&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20IN%20PROGRESS&descSize=16&descAlignY=58" width="100%" alt="João Paneto"/>
 
 <br>
 
-<!-- ==================== TYPING ==================== -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&height=50&lines=%3E+Initializing+developer+system...;%3E+System+online+%E2%9C%93;%3E+Learning+%7C+Building+%7C+Evolving;%3E+Future+Software+Engineer;%3E+Welcome+to+my+GitHub+interface." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer+system...;%3E+Welcome+to+my+GitHub.;%3E+Learning+%7C+Building+%7C+Evolving;%3E+Future+Software+Engineer;%3E+System+online" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/FOCUS-PROGRAMMING-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/LEARNING-ACTIVE-161B22?style=for-the-badge&logo=bookstack&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Status Online"/>
+<img src="https://img.shields.io/badge/FOCUS-PROGRAMMING-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF" alt="Programming"/>
+<img src="https://img.shields.io/badge/LEARNING-ACTIVE-161B22?style=for-the-badge&logo=bookstack&logoColor=00F5FF" alt="Learning"/>
 
 </div>
 
@@ -58,7 +54,7 @@ Meu objetivo é construir uma carreira como **Software Engineer**, evoluindo con
 ### `LANGUAGES & TECHNOLOGIES`
 
 | Tecnologia | Foco                     |
-| :--------- | :----------------------- |
+| ---------- | ------------------------ |
 | HTML5      | Estrutura e semântica    |
 | CSS3       | Estilização e interfaces |
 | JavaScript | Interatividade e lógica  |
@@ -94,23 +90,23 @@ Figma         → Interface Design
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🚗 AutoPrime Veículos
 
 Website para uma loja automotiva local.
 
-`HTML` `CSS`
+**Stack:** `HTML` `CSS`
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 💻 Developer Portfolio
 
 Portfólio pessoal focado em programação e tecnologia.
 
-`HTML` `CSS` `JavaScript`
+**Stack:** `HTML` `CSS` `JavaScript`
 
 </td>
 
@@ -118,23 +114,23 @@ Portfólio pessoal focado em programação e tecnologia.
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🐍 Python Projects
 
 Projetos desenvolvidos durante meus estudos de Python e lógica.
 
-`Python`
+**Stack:** `Python`
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### ⚡ JavaScript Lab
 
 Projetos e experimentos para evolução em JavaScript.
 
-`JavaScript` `HTML` `CSS`
+**Stack:** `JavaScript` `HTML` `CSS`
 
 </td>
 
@@ -174,9 +170,9 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
 
@@ -206,7 +202,7 @@ STATUS: IN PROGRESS...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -245,19 +241,15 @@ STATUS: IN PROGRESS...
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║             SYSTEM STATUS: ONLINE            ║
-║                                              ║
-║        CODE • CREATE • LEARN • EVOLVE        ║
-║                                              ║
-║              [ CONNECTION OK ]               ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+┌──────────────────────────────────────────────┐
+│                                              │
+│              SYSTEM STATUS: ONLINE           │
+│                                              │
+│        CODE • CREATE • LEARN • EVOLVE        │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:07152B,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00F5FF,50:111827,100:050505" width="100%" alt="Footer"/>
 
 </div>
